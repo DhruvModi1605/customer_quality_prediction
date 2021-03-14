@@ -35,7 +35,7 @@ Below flow to be followed sequentially.
 
  2_profit_model.ipynb: After building above the model, the model to predict 'Profit' is built for customers who would respond. 
 		       So, that we should only contact people likely to respond and will be profitable to the firm.
-                       (to identify the profitable customers, cutoff decided basis confidence interval of regression output)
+                       (to identify the profitable customers, cutoff decided basis prediction interval of regression output)
 
  3_predicting_output.ipynb: Here, customers in 'testingCandidate.csv' data are tagged using above two models. 
 		     	    First, responding customers are identified and then profitable customers out of responding customers are identified.
