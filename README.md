@@ -2,7 +2,7 @@
 ''' Files '''
 ---------------------------------------------------------------------------------------------
 
- 0_problem_statement.pdf: Defines the problem to be solved.
+ problem_statement.pdf: Defines the problem to be solved.
 
  requirements.txt: This file has all the required standard python packages used in building this project
 
